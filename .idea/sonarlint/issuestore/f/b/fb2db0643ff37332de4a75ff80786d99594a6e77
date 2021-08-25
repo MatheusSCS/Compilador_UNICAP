@@ -1,0 +1,35 @@
+
+ˆ
+java:S4165ğ"jRemove this useless assignment; "ladoEsquerdo" already holds the assigned value along all execution paths.(şÛ¿8å†ß¡/
+ˆ
+java:S4165å"jRemove this useless assignment; "ladoEsquerdo" already holds the assigned value along all execution paths.(şÛ¿8ä†ß¡/
+y
+java:S2259Ç"VA "NullPointerException" could be thrown; "ultimaVariavelAdicionada" is nullable here.(ªÿÓûÿÿÿÿ8ì†ß¡/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ñšÔ8±üñŞ¡/
+]	java:S1259"<This block of commented-out lines of code should be removed.(Ù‰¸æÿÿÿÿÿ8¡üñŞ¡/
+]	java:S125^"<This block of commented-out lines of code should be removed.(Ù‰¸æÿÿÿÿÿ8¦üñŞ¡/
+^	java:S125 "<This block of commented-out lines of code should be removed.(†¯Ãîùÿÿÿÿ8­üñŞ¡/
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(ˆÃ½Ç8²üñŞ¡/
+V	java:S106É"9Replace this use of System.out or System.err by a logger.(—àßù8³üñŞ¡/
+U	java:S106Ê"9Replace this use of System.out or System.err by a logger.(õ †y8´üñŞ¡/
+V	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ÃÓå8¶üñŞ¡/
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(€â½Ÿüÿÿÿÿ8¹üñŞ¡/
+V	java:S106û"9Replace this use of System.out or System.err by a logger.(Ø®ê®8ºüñŞ¡/
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(üÍô¨şÿÿÿÿ8»üñŞ¡/
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.( ¤âüÿÿÿÿ8¼üñŞ¡/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ó˜µ®ùÿÿÿÿ8¼üñŞ¡/
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ê¬ùıÿÿÿÿ8š‡ß¡/
+p
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ûíêü8™‡ß¡/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(‹ùÚşÿÿÿÿ8š‡ß¡/
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(û’§˜ÿÿÿÿÿ8›‡ß¡/
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(–İÈ¤øÿÿÿÿ8‡ß¡/
+V	java:S106Û"9Replace this use of System.out or System.err by a logger.(¢´êã8¢‡ß¡/
+M
+java:S6212á"/Declare this local variable with "var" instead.(¢³¯¯8Ÿ‡ß¡/
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(¨Ì’Äøÿÿÿÿ8£‡ß¡/
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(¼øïæ8¤‡ß¡/
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(ï¨Éûÿÿÿÿ8­‡ß¡/
+p	java:S100Î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©œÖÚÿÿÿÿÿ8¬‡ß¡/
+[	java:S106Ô"9Replace this use of System.out or System.err by a logger.(Ñçôªıÿÿÿÿ8¨Ñ•ß¡/
+k	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¹ú·8®‡ß¡/

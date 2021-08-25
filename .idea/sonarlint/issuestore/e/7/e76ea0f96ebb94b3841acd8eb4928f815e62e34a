@@ -1,0 +1,8 @@
+
+c	java:S899#"BDo something with the "boolean" value returned by "createNewFile".(´›äúÿÿÿÿ8äØîİ¡/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ÿ¢ºÑúÿÿÿÿ8òÙîİ¡/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ8õÙîİ¡/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(ÉĞëš8÷Ùîİ¡/
+t
+java:S3776j"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(˜ÚÓÎıÿÿÿÿ8ıÙîİ¡/
+D	java:S131""Add a default case to this switch.(â˜—Ïøÿÿÿÿ8ƒÚîİ¡/
